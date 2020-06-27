@@ -1,0 +1,43 @@
+.main{
+    margin-top: 150px;
+    margin-left: 500px;
+    
+    border: 2px solid black;
+    width: 300px;
+  padding: 10px;
+  background-image: url("https://th.bing.com/th/id/OIP.ji9KHQ6jJFYrUlUHLZKXfgHaFU?w=222&h=180&c=7&o=5&dpr=1.5&pid=1.7");
+}
+.input{
+    margin: 3px;
+    width: 92%;
+    margin-left: 10px;
+    background-color: black;
+    color: cornsilk;
+    
+}
+.cls{
+    width: 95%;
+    margin: 3px;
+    margin-left: 10px;
+    background-color: black;
+    color: cornsilk;
+    border-radius: 5px;
+
+}
+.btn{
+    width: 20%;
+    margin-left: 10px;
+    margin-top: 3px;
+    background-color: black;
+    color: cornsilk;
+    border-radius: 5px;
+}
+.btnlast{
+    width: 45%;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: black;
+    color: cornsilk;
+    border-radius: 5px;
+}
